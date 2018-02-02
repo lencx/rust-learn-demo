@@ -1,0 +1,5 @@
+[package]
+
+name = "hello_word"
+version = "0.0.1"
+authors = ["Len <cxin1314@gmail.com>"]
