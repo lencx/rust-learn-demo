@@ -27,7 +27,7 @@ fn main() {
     println!("{}, {}", t, f);
 
     // characters
-    let emoji = '🙈';
+    let emoji: char = '🙈';
     let char_a = 'a';
     println!("{}, {}", emoji, char_a);
 

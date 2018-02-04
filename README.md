@@ -68,3 +68,11 @@ cargo build --release
 ```bash
 cargo new project_name --bin
 ```
+
+## Examples
+
+* [hello_world](./hello_world)
+* [guessing_game](./guessing_game)
+* [variables](./variables)
+* [data_types](./data_types)
+* [functions](./functions)
