@@ -76,3 +76,7 @@ cargo new project_name --bin
 * [variables](./variables)
 * [data_types](./data_types)
 * [functions](./functions)
+* [control flow - branches](./control_flow_branches)
+* [control flow - loop](./control_flow_loop)
+* [ownership - what](./ownership_what)
+* [ownership - references & borrowing](./ownership_references_borrowing)
