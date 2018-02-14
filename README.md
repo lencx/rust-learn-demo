@@ -71,12 +71,24 @@ cargo new project_name --bin
 
 ## Examples
 
-* [hello_world](./hello_world)
-* [guessing_game](./guessing_game)
-* [variables](./variables)
-* [data_types](./data_types)
-* [functions](./functions)
-* [control flow - branches](./control_flow_branches)
-* [control flow - loop](./control_flow_loop)
-* [ownership - what](./ownership_what)
-* [ownership - references & borrowing](./ownership_references_borrowing)
+* [Hello World](./hello_world)
+* [Guessing Game](./guessing_game)
+
+<details>
+<summary>Common Programming Concepts</summary>
+
+* [variables](./common_concepts/variables)
+* [data_types](./common_concepts/data_types)
+* [control flow - branches](./common_concepts/control_flow/control_flow_branches)
+* [control flow - loop](./common_concepts/control_flow/control_flow_loop)
+
+</details>
+
+<details>
+<summary>Ownership</summary>
+
+* [ownership - what is ownership](./ownership/ownership_what)
+* [ownership - references & borrowing](./ownership/ownership_references_borrowing)
+* [ownership - slice](./ownership/ownership_slices)
+
+</details>
