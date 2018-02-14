@@ -92,3 +92,10 @@ cargo new project_name --bin
 * [ownership - slice](./ownership/ownership_slices)
 
 </details>
+
+<details>
+<summary>Structs</summary>
+
+* [Defining Structs](./structs/defining_strcuts)
+
+</details>
