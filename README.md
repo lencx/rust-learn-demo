@@ -96,6 +96,8 @@ cargo new project_name --bin
 <details>
 <summary>Structs</summary>
 
-* [Defining Structs](./structs/defining_strcuts)
+* [Defining Structs](./structs/defining_structs)
+* [Example - Using Structs](./structs/rectangles)
+* [Method Syntax](./structs/method_syntax)
 
 </details>
