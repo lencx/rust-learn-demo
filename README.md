@@ -101,3 +101,10 @@ cargo new project_name --bin
 * [Method Syntax](./structs/method_syntax)
 
 </details>
+
+<details>
+<summary>Enums</summary>
+
+* [Defining Enums](./enums/defining_enum)
+
+</details>
