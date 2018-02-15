@@ -77,19 +77,19 @@ cargo new project_name --bin
 <details>
 <summary>Common Programming Concepts</summary>
 
-* [variables](./common_concepts/variables)
-* [data_types](./common_concepts/data_types)
-* [control flow - branches](./common_concepts/control_flow/control_flow_branches)
-* [control flow - loop](./common_concepts/control_flow/control_flow_loop)
+* [Variables](./common_concepts/variables)
+* [Data Types](./common_concepts/data_types)
+* [Control flow - branches](./common_concepts/control_flow/control_flow_branches)
+* [Control flow - loop](./common_concepts/control_flow/control_flow_loop)
 
 </details>
 
 <details>
 <summary>Ownership</summary>
 
-* [ownership - what is ownership](./ownership/ownership_what)
-* [ownership - references & borrowing](./ownership/ownership_references_borrowing)
-* [ownership - slice](./ownership/ownership_slices)
+* [What is ownership](./ownership/ownership_what)
+* [References & Borrowing](./ownership/ownership_references_borrowing)
+* [Slice](./ownership/ownership_slices)
 
 </details>
 
@@ -106,5 +106,6 @@ cargo new project_name --bin
 <summary>Enums</summary>
 
 * [Defining Enums](./enums/defining_enum)
+* [Match](./enums/control_flow_match)
 
 </details>
