@@ -107,5 +107,6 @@ cargo new project_name --bin
 
 * [Defining Enums](./enums/defining_enum)
 * [Match](./enums/control_flow_match)
+* [Control Flow - `if let`](./enums/if_let)
 
 </details>
