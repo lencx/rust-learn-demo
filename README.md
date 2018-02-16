@@ -50,9 +50,11 @@ authors = ["your_name <your_email@example.com>"]
 ### Building & Running
 
 ```bash
+# cargo new project_name
 # building
 cargo build
 
+# cargo new --bin project_name
 # running
 cargo run
 ```
@@ -108,5 +110,12 @@ cargo new project_name --bin
 * [Defining Enums](./enums/defining_enum)
 * [Match](./enums/control_flow_match)
 * [Control Flow - `if let`](./enums/if_let)
+
+</details>
+
+<details>
+<summary>Modules</summary>
+
+* [mod & Filesystem](./modules/mod_filesystem)
 
 </details>
