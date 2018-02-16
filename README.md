@@ -117,5 +117,7 @@ cargo new project_name --bin
 <summary>Modules</summary>
 
 * [mod & Filesystem](./modules/mod_filesystem)
+* [Controlling Visibility with `pub`](./modules/visibility_pub)
+* [mod Demo](./modules/mod_demo)
 
 </details>
