@@ -47,7 +47,7 @@ version = "version_number"
 authors = ["your_name <your_email@example.com>"]
 ```
 
-### Building & Running
+### Building & Running & Test
 
 ```bash
 # cargo new project_name
@@ -57,6 +57,8 @@ cargo build
 # cargo new --bin project_name
 # running
 cargo run
+
+cargo test
 ```
 
 ### Building for Release
@@ -119,5 +121,6 @@ cargo new project_name --bin
 * [mod & Filesystem](./modules/mod_filesystem)
 * [Controlling Visibility with `pub`](./modules/visibility_pub)
 * [mod Demo](./modules/mod_demo)
+* [Referring to Names in Different Modules](./modules/nested_modules)
 
 </details>
