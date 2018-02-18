@@ -138,5 +138,6 @@ cargo new project_name --bin
 <summary>Error handling</summary>
 
 * [Unrecoverable Errors with `panic!`](./error_handling/unrecoverable_errors_panic)
+* [Recoverable Errors with `Result`](./error_handling/recoverable_errors/)
 
 </details>
