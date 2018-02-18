@@ -133,3 +133,10 @@ cargo new project_name --bin
 * [Hash Maps](./common_collections/hash_maps)
 
 </details>
+
+<details>
+<summary>Error handling</summary>
+
+* [Unrecoverable Errors with `panic!`](./error_handling/unrecoverable_errors_panic)
+
+</details>
