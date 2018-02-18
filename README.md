@@ -129,5 +129,6 @@ cargo new project_name --bin
 <summary>Common Collections</summary>
 
 * [Vectors](./common_collections/vectors)
+* [Strings](./common_collections/strings)
 
 </details>
