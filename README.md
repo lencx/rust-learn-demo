@@ -124,3 +124,10 @@ cargo new project_name --bin
 * [Referring to Names in Different Modules](./modules/nested_modules)
 
 </details>
+
+<details>
+<summary>Common Collections</summary>
+
+* [Vectors](./common_collections/vectors)
+
+</details>
