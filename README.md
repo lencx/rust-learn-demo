@@ -130,5 +130,6 @@ cargo new project_name --bin
 
 * [Vectors](./common_collections/vectors)
 * [Strings](./common_collections/strings)
+* [Hash Maps](./common_collections/hash_maps)
 
 </details>
