@@ -142,3 +142,10 @@ cargo new project_name --bin
 * [To `panic!` or Not To `panic!`](./error_handling/panic_or_not_panic//)
 
 </details>
+
+<details>
+<summary>Generic Types, Traits, and Lifetimes</summary>
+
+* [Generic Data Types](./generic_types_traits_lifetimes/generic_data_types)
+
+</details>
