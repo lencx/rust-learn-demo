@@ -147,5 +147,6 @@ cargo new project_name --bin
 <summary>Generic Types, Traits, and Lifetimes</summary>
 
 * [Generic Data Types](./generic_types_traits_lifetimes/generic_data_types)
+* [Traits](./generic_types_traits_lifetimes/traits)
 
 </details>
