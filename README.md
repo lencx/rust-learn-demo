@@ -160,3 +160,10 @@ cargo new project_name --bin
 * [Test Organization](./testing/test_organization)
 
 </details>
+
+<details>
+<summary>An I/O Project</summary>
+
+* [Minigrep](./an_io_project/minigrep)
+
+</details>
