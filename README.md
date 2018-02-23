@@ -148,5 +148,6 @@ cargo new project_name --bin
 
 * [Generic Data Types](./generic_types_traits_lifetimes/generic_data_types)
 * [Traits](./generic_types_traits_lifetimes/traits)
+* [Validating References with Lifetimes](./generic_types_traits_lifetimes/lifetime_syntax)
 
 </details>
