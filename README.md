@@ -157,5 +157,6 @@ cargo new project_name --bin
 
 * [Writing tests](./testing/writing_tests)
 * [Running tests](./testing/running_tests)
+* [Test Organization](./testing/test_organization)
 
 </details>
