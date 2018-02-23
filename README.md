@@ -151,3 +151,10 @@ cargo new project_name --bin
 * [Validating References with Lifetimes](./generic_types_traits_lifetimes/lifetime_syntax)
 
 </details>
+
+<details>
+<summary>Testing</summary>
+
+* [Writing tests](./testing/writing_tests)
+
+</details>
