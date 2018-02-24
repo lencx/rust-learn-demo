@@ -172,5 +172,6 @@ cargo new project_name --bin
 <summary>Functional Features</summary>
 
 * [Closures](./functional_features/closures)
+* [Iterators](./functional_features/iterators)
 
 </details>
