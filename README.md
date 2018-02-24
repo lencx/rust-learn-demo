@@ -167,3 +167,10 @@ cargo new project_name --bin
 * [Minigrep](./an_io_project/minigrep)
 
 </details>
+
+<details>
+<summary>Functional Features</summary>
+
+* [Closures](./functional_features/closures)
+
+</details>
