@@ -1,0 +1,3 @@
+```bash
+cargod doc --open
+```

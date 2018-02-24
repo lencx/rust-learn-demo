@@ -45,9 +45,34 @@ rustc main.rs
 name = "package_name"
 version = "version_number"
 authors = ["your_name <your_email@example.com>"]
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3
+
+[workspace]
+member = [
+    "crate_one",
+    "crate_two"
+]
 ```
 
-### Building & Running & Test
+> crate_one/Cargo.toml
+
+```tomal
+crate_two = {path = "../crate_two"}
+```
+
+> optimizations(default values)
+
+|env|opt-level|
+|:---:|:---:|
+|dev|0|
+|release|3|
+
+### Building & Running & Test & Doc
 
 ```bash
 # cargo new project_name
@@ -59,6 +84,8 @@ cargo build
 cargo run
 
 cargo test
+
+cargo doc --open
 ```
 
 ### Building for Release
@@ -70,6 +97,7 @@ cargo build --release
 ### Making A New Cargo Project
 
 ```bash
+cargo new project_name
 cargo new project_name --bin
 ```
 
@@ -173,5 +201,13 @@ cargo new project_name --bin
 
 * [Closures](./functional_features/closures)
 * [Iterators](./functional_features/iterators)
+
+</details>
+
+<details>
+<summary>Cargo</summary>
+
+* [Publishing a Crate](./cargo/publish_a_crate)
+* [Demo](./cargo/art)
 
 </details>
