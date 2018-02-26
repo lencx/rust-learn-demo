@@ -215,6 +215,7 @@ cargo new project_name --bin
 <details>
 <summary>Smart Pointers</summary>
 
-* [`Box<T>`](./smart_popointers/box_points)
+* [`Box<T>`](./smart_pointers/box_points)
+* [`Deref`](./smart_pointers/deref_trait)
 
 </details>
