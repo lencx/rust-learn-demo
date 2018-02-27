@@ -218,5 +218,6 @@ cargo new project_name --bin
 * [`Box<T>`](./smart_pointers/box_points)
 * [`Deref`](./smart_pointers/deref_trait)
 * [`Drop`](./smart_pointers/drop_trait)
+* [`Rc<T>`](./smart_pointers/rc)
 
 </details>
