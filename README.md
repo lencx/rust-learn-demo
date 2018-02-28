@@ -219,5 +219,6 @@ cargo new project_name --bin
 * [`Deref`](./smart_pointers/deref_trait)
 * [`Drop`](./smart_pointers/drop_trait)
 * [`Rc<T>`](./smart_pointers/rc)
+* [`RefCell<T>` and the Interior Mutability Pattern](./smart_pointers/refcell_interior_mutability)
 
 </details>
