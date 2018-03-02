@@ -220,5 +220,6 @@ cargo new project_name --bin
 * [`Drop`](./smart_pointers/drop_trait)
 * [`Rc<T>`](./smart_pointers/rc)
 * [`RefCell<T>` and the Interior Mutability Pattern](./smart_pointers/refcell_interior_mutability)
+* [Reference Cycles](./smart_pointers/reference_cycles)
 
 </details>
