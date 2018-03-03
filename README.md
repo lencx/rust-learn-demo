@@ -223,3 +223,10 @@ cargo new project_name --bin
 * [Reference Cycles](./smart_pointers/reference_cycles)
 
 </details>
+
+<details>
+<summary>Fearless Concurrency</summary>
+
+* [threads](./fearless_concurrency/threads)
+
+</details>
