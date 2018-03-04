@@ -227,6 +227,7 @@ cargo new project_name --bin
 <details>
 <summary>Fearless Concurrency</summary>
 
-* [threads](./fearless_concurrency/threads)
+* [Threads](./fearless_concurrency/threads)
+* [Message Passing](./fearless_concurrency/message_passing)
 
 </details>
