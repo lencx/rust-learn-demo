@@ -237,5 +237,6 @@ cargo new project_name --bin
 <summary>OOP</summary>
 
 * [What is OO](./oop/what_is_oo)
+* [Trait Objects](./oop/trait_objects)
 
 </details>
